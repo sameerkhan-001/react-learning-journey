@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+button {
+  margin: 20px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border : none;
+  background: red;
+  font-size: larger;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+  object-fit: cover;
+}
